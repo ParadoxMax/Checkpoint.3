@@ -1,0 +1,66 @@
+text{
+    font-style: italic;
+    font-style: oblique;
+    font: bolder;
+    font-size: 50px;
+    }
+#fieldset{
+    width: 95%;
+    height: 900px;
+}
+#texteditor{
+    margin: 10px;
+    height: 300px;
+}
+#menu{
+    padding: 10px;
+    background-color: grey;
+    margin: 10px;
+    color: white;
+    border: solid black 5px;
+    display: flex;
+    align-content: center;
+}
+#toolbar{
+    align-content: center;
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    align-content: center;
+}
+.button{
+    padding: 15px;
+    margin: -10px;
+    border: none;
+}
+#dropdowns{
+    margin: 5px;
+}
+
+#textbox{
+    border: solid black 5px;
+    width: 95%;
+    height: 700px;
+    margin: 20px;
+    outline: none;
+    box-sizing: border-box;
+
+}
+
+.strongtext{
+    font-weight : bold;
+}
+
+.italictext{
+    font-style: italic;
+}
+.underlinedtext{
+    text-decoration: underline;
+}
+.fontcolor{
+    text-decoration-color: rgb(red, green, blue); 
+    border: none;
+}
+.fontstyle{
+    font-family: Arial, Helvetica, sans-serif;
+}
